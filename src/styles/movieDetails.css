@@ -1,0 +1,16 @@
+.details{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.imgDetailed{
+    width: 400px;
+    border-radius: 15px;
+    border: 1px solid white;
+}
+
+.details p{
+    width: 80%;
+    margin: 20px auto;
+}

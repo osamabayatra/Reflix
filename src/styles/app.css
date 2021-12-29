@@ -1,0 +1,18 @@
+.nav-bar{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: #313131;
+}
+
+.logo{
+    display: grid;
+    justify-self: end;
+    margin-right: 20px;
+    align-self: center;
+}
+
+.links h2{
+    display: inline-block;
+    padding: 10px;
+    color: white;
+}
