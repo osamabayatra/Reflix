@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "osama",
+        "budget": 50,
+        "backGround": "rgb(192, 40, 179)"
+    },
+    {
+        "id": 1,
+        "name": "Sara",
+        "budget": 10,
+        "backGround": "rgb(87, 163, 16)"
+    },
+    {
+        "id": 2,
+        "name": "Laila",
+        "budget": 200,
+        "backGround": "rgb(35, 34, 145)"
+    },
+    {
+        "id": 3,
+        "name": "Fadi",
+        "budget": 400,
+        "backGround": "rgb(65, 153, 57)"
+    }
+]
